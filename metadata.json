@@ -1,0 +1,6 @@
+{
+  "name": "ThreatShield - Security Scanner & Alert System",
+  "description": "Real-time file, URL, and email threat intelligence scanner with automated alert notifications to phone and email.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
